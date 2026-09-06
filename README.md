@@ -1,6 +1,6 @@
 # Hi, I'm Abdullah Ahmed Fathy 👋
 
-### Junior Backend Developer & Backend Co-Lead
+### Junior Backend Developer 
 
 I'm a backend developer focused on building **production-ready, scalable backend systems** using Node.js, NestJS, Express.js, TypeScript, PostgreSQL, and Supabase.
 
